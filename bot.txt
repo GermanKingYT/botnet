@@ -42,10 +42,10 @@ class pBot
                      "pass"=>"",
                      "prefix"=>"NKD",
                      "maxrand"=>"4",
-                     "chan"=>"#botmarc",
+                     "chan"=>"#botmarc1",
                      "chan2"=>"#",
                      "key"=>"",
-                     "modes"=>"+p",
+                     "modes"=>"+nt",
                      "password"=>"123",
                      "trigger"=>".",
                      "hostauth"=>"*" // * for any hostname (remember: /setvhost xdevil.org)
